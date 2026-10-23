@@ -1,0 +1,83 @@
+{
+  "date": "2026-04-26",
+  "input": 33251336,
+  "cache_write": 115496,
+  "cache_read": 18647433,
+  "output": 274709,
+  "agents": {
+    "claude-code": {
+      "input": 33244471,
+      "cache_write": 115496,
+      "cache_read": 18599049,
+      "output": 274044
+    },
+    "codex": {
+      "input": 6865,
+      "cache_write": 0,
+      "cache_read": 48384,
+      "output": 665
+    }
+  },
+  "models": {
+    "claude-haiku-4-5": {
+      "input": 10541,
+      "cache_write": 0,
+      "cache_read": 0,
+      "output": 1025
+    },
+    "claude-haiku-4-5-20251001": {
+      "input": 18198942,
+      "cache_write": 0,
+      "cache_read": 4322560,
+      "output": 124441
+    },
+    "claude-opus-4-6": {
+      "input": 43971,
+      "cache_write": 115496,
+      "cache_read": 9414665,
+      "output": 26419
+    },
+    "claude-sonnet-4-6": {
+      "input": 10005326,
+      "cache_write": 0,
+      "cache_read": 3034368,
+      "output": 78070
+    },
+    "deepseek-v4-flash": {
+      "input": 59837,
+      "cache_write": 0,
+      "cache_read": 147840,
+      "output": 1450
+    },
+    "dsadaskda": {
+      "input": 29005,
+      "cache_write": 0,
+      "cache_read": 15104,
+      "output": 17
+    },
+    "gpt-5.3-codex": {
+      "input": 29153,
+      "cache_write": 0,
+      "cache_read": 15104,
+      "output": 53
+    },
+    "gpt-5.4": {
+      "input": 58892,
+      "cache_write": 0,
+      "cache_read": 30208,
+      "output": 61
+    },
+    "gpt-5.5": {
+      "input": 4786952,
+      "cache_write": 0,
+      "cache_read": 1652480,
+      "output": 43154
+    },
+    "gpt5.5": {
+      "input": 28717,
+      "cache_write": 0,
+      "cache_read": 15104,
+      "output": 19
+    }
+  }
+}

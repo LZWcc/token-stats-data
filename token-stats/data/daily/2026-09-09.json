@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-09",
+  "input": 1626002,
+  "cache_write": 0,
+  "cache_read": 43960704,
+  "output": 326556,
+  "agents": {
+    "codex": {
+      "input": 1626002,
+      "cache_write": 0,
+      "cache_read": 43960704,
+      "output": 326556
+    }
+  },
+  "models": {
+    "gpt-5.6-luna": {
+      "input": 690229,
+      "cache_write": 0,
+      "cache_read": 12668672,
+      "output": 145327
+    },
+    "gpt-5.6-terra": {
+      "input": 172880,
+      "cache_write": 0,
+      "cache_read": 3149568,
+      "output": 17019
+    },
+    "gpt-6-astra": {
+      "input": 762893,
+      "cache_write": 0,
+      "cache_read": 28142464,
+      "output": 164210
+    }
+  }
+}

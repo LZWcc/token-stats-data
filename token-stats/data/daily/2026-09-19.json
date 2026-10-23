@@ -1,0 +1,29 @@
+{
+  "date": "2026-09-19",
+  "input": 697168,
+  "cache_write": 0,
+  "cache_read": 20822656,
+  "output": 98776,
+  "agents": {
+    "codex": {
+      "input": 697168,
+      "cache_write": 0,
+      "cache_read": 20822656,
+      "output": 98776
+    }
+  },
+  "models": {
+    "gpt-5.6-luna": {
+      "input": 93984,
+      "cache_write": 0,
+      "cache_read": 912896,
+      "output": 11529
+    },
+    "gpt-5.6-sol": {
+      "input": 603184,
+      "cache_write": 0,
+      "cache_read": 19909760,
+      "output": 87247
+    }
+  }
+}

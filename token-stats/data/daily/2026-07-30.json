@@ -1,0 +1,65 @@
+{
+  "date": "2026-07-30",
+  "input": 4630557,
+  "cache_write": 0,
+  "cache_read": 84845120,
+  "output": 227585,
+  "agents": {
+    "claude-code": {
+      "input": 1146262,
+      "cache_write": 0,
+      "cache_read": 247616,
+      "output": 11017
+    },
+    "codex": {
+      "input": 3484295,
+      "cache_write": 0,
+      "cache_read": 84597504,
+      "output": 216568
+    }
+  },
+  "models": {
+    "codex-auto-review": {
+      "input": 566016,
+      "cache_write": 0,
+      "cache_read": 4278272,
+      "output": 7454
+    },
+    "deepseek-v4-flash-free": {
+      "input": 954270,
+      "cache_write": 0,
+      "cache_read": 0,
+      "output": 3709
+    },
+    "glm-5.2": {
+      "input": 29596,
+      "cache_write": 0,
+      "cache_read": 64,
+      "output": 53
+    },
+    "gpt-5.6-sol": {
+      "input": 2795834,
+      "cache_write": 0,
+      "cache_read": 79322624,
+      "output": 204000
+    },
+    "gpt-5.6-terra": {
+      "input": 122445,
+      "cache_write": 0,
+      "cache_read": 996608,
+      "output": 5114
+    },
+    "grok-4.5": {
+      "input": 126785,
+      "cache_write": 0,
+      "cache_read": 218880,
+      "output": 4799
+    },
+    "sensenova-6.7-flash-lite": {
+      "input": 35611,
+      "cache_write": 0,
+      "cache_read": 28672,
+      "output": 2456
+    }
+  }
+}

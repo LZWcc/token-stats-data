@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-07",
+  "input": 132078,
+  "cache_write": 1379651,
+  "cache_read": 193281545,
+  "output": 798052,
+  "agents": {
+    "claude-code": {
+      "input": 1346,
+      "cache_write": 1379651,
+      "cache_read": 191625737,
+      "output": 788938
+    },
+    "codex": {
+      "input": 130732,
+      "cache_write": 0,
+      "cache_read": 1655808,
+      "output": 9114
+    }
+  },
+  "models": {
+    "claude-haiku-4-5-20251001": {
+      "input": 10,
+      "cache_write": 14956,
+      "cache_read": 23500,
+      "output": 325
+    },
+    "claude-opus-5-5": {
+      "input": 1336,
+      "cache_write": 1364695,
+      "cache_read": 191602237,
+      "output": 788613
+    },
+    "gpt-6.1-sol": {
+      "input": 130732,
+      "cache_write": 0,
+      "cache_read": 1655808,
+      "output": 9114
+    }
+  }
+}

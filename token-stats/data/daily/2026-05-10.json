@@ -1,0 +1,41 @@
+{
+  "date": "2026-05-10",
+  "input": 1576509,
+  "cache_write": 0,
+  "cache_read": 58706176,
+  "output": 190867,
+  "agents": {
+    "claude-code": {
+      "input": 144669,
+      "cache_write": 0,
+      "cache_read": 27516288,
+      "output": 88607
+    },
+    "codex": {
+      "input": 1431840,
+      "cache_write": 0,
+      "cache_read": 31189888,
+      "output": 102260
+    }
+  },
+  "models": {
+    "codex-auto-review": {
+      "input": 321918,
+      "cache_write": 0,
+      "cache_read": 6695040,
+      "output": 3371
+    },
+    "deepseek-v4-pro": {
+      "input": 144669,
+      "cache_write": 0,
+      "cache_read": 27516288,
+      "output": 88607
+    },
+    "gpt-5.5": {
+      "input": 1109922,
+      "cache_write": 0,
+      "cache_read": 24494848,
+      "output": 98889
+    }
+  }
+}

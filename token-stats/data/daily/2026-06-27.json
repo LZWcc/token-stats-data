@@ -1,0 +1,29 @@
+{
+  "date": "2026-06-27",
+  "input": 1064235,
+  "cache_write": 0,
+  "cache_read": 12180864,
+  "output": 75023,
+  "agents": {
+    "codex": {
+      "input": 1064235,
+      "cache_write": 0,
+      "cache_read": 12180864,
+      "output": 75023
+    }
+  },
+  "models": {
+    "codex-auto-review": {
+      "input": 37736,
+      "cache_write": 0,
+      "cache_read": 56320,
+      "output": 439
+    },
+    "gpt-5.5": {
+      "input": 1026499,
+      "cache_write": 0,
+      "cache_read": 12124544,
+      "output": 74584
+    }
+  }
+}

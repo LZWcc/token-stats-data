@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-10",
+  "input": 165747,
+  "cache_write": 2638133,
+  "cache_read": 196068856,
+  "output": 683754,
+  "agents": {
+    "claude-code": {
+      "input": 1492,
+      "cache_write": 2638133,
+      "cache_read": 193663224,
+      "output": 667221
+    },
+    "codex": {
+      "input": 164255,
+      "cache_write": 0,
+      "cache_read": 2405632,
+      "output": 16533
+    }
+  },
+  "models": {
+    "claude-haiku-5-5": {
+      "input": 2,
+      "cache_write": 15133,
+      "cache_read": 23526,
+      "output": 64
+    },
+    "claude-opus-5-5": {
+      "input": 1172,
+      "cache_write": 882619,
+      "cache_read": 150463216,
+      "output": 525834
+    },
+    "claude-sonnet-5": {
+      "input": 100,
+      "cache_write": 1451561,
+      "cache_read": 34552197,
+      "output": 55282
+    },
+    "claude-sonnet-5-5": {
+      "input": 218,
+      "cache_write": 288820,
+      "cache_read": 8624285,
+      "output": 86041
+    },
+    "gpt-5.6-luna": {
+      "input": 47013,
+      "cache_write": 0,
+      "cache_read": 310016,
+      "output": 5307
+    },
+    "gpt-6.1-sol": {
+      "input": 117242,
+      "cache_write": 0,
+      "cache_read": 2095616,
+      "output": 11226
+    }
+  }
+}

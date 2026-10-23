@@ -1,0 +1,89 @@
+{
+  "date": "2026-07-13",
+  "input": 9195710,
+  "cache_write": 0,
+  "cache_read": 132737850,
+  "output": 526808,
+  "agents": {
+    "claude-code": {
+      "input": 5233838,
+      "cache_write": 0,
+      "cache_read": 12572858,
+      "output": 185726
+    },
+    "codex": {
+      "input": 3961872,
+      "cache_write": 0,
+      "cache_read": 120164992,
+      "output": 341082
+    }
+  },
+  "models": {
+    "anomaly/DeepSeek-V4-Flash-0709": {
+      "input": 67015,
+      "cache_write": 0,
+      "cache_read": 0,
+      "output": 845
+    },
+    "codex-auto-review": {
+      "input": 149948,
+      "cache_write": 0,
+      "cache_read": 1332864,
+      "output": 1693
+    },
+    "deepseek-v4-flash-free": {
+      "input": 3538442,
+      "cache_write": 0,
+      "cache_read": 0,
+      "output": 60145
+    },
+    "euromodels": {
+      "input": 125972,
+      "cache_write": 0,
+      "cache_read": 2546042,
+      "output": 34976
+    },
+    "glm-5.2": {
+      "input": 49782,
+      "cache_write": 0,
+      "cache_read": 0,
+      "output": 96
+    },
+    "gpt-5.6-luna": {
+      "input": 259737,
+      "cache_write": 0,
+      "cache_read": 1371136,
+      "output": 22355
+    },
+    "gpt-5.6-sol": {
+      "input": 4465066,
+      "cache_write": 0,
+      "cache_read": 126766592,
+      "output": 392409
+    },
+    "tencent/Hy3": {
+      "input": 92944,
+      "cache_write": 0,
+      "cache_read": 470512,
+      "output": 6969
+    },
+    "tencent/hy3:free": {
+      "input": 52751,
+      "cache_write": 0,
+      "cache_read": 250256,
+      "output": 4367
+    },
+    "z-ai/glm-5.2": {
+      "input": 166865,
+      "cache_write": 0,
+      "cache_read": 448,
+      "output": 1696
+    },
+    "zai-org/glm-5.2": {
+      "input": 227188,
+      "cache_write": 0,
+      "cache_read": 0,
+      "output": 1257
+    }
+  }
+}

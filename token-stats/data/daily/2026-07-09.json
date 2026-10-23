@@ -1,0 +1,23 @@
+{
+  "date": "2026-07-09",
+  "input": 767596,
+  "cache_write": 0,
+  "cache_read": 20478592,
+  "output": 71497,
+  "agents": {
+    "codex": {
+      "input": 767596,
+      "cache_write": 0,
+      "cache_read": 20478592,
+      "output": 71497
+    }
+  },
+  "models": {
+    "gpt-5.5": {
+      "input": 767596,
+      "cache_write": 0,
+      "cache_read": 20478592,
+      "output": 71497
+    }
+  }
+}

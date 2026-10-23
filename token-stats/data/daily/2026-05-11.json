@@ -1,0 +1,65 @@
+{
+  "date": "2026-05-11",
+  "input": 3330389,
+  "cache_write": 88056,
+  "cache_read": 53223144,
+  "output": 235118,
+  "agents": {
+    "claude-code": {
+      "input": 193805,
+      "cache_write": 88056,
+      "cache_read": 3960296,
+      "output": 42459
+    },
+    "codex": {
+      "input": 3136584,
+      "cache_write": 0,
+      "cache_read": 49262848,
+      "output": 192659
+    }
+  },
+  "models": {
+    "claude-opus-4-6": {
+      "input": 24494,
+      "cache_write": 88056,
+      "cache_read": 2830568,
+      "output": 11822
+    },
+    "codex-auto-review": {
+      "input": 363869,
+      "cache_write": 0,
+      "cache_read": 6098176,
+      "output": 5816
+    },
+    "deepseek-v4-flash": {
+      "input": 28822,
+      "cache_write": 0,
+      "cache_read": 85376,
+      "output": 290
+    },
+    "deepseek-v4-pro": {
+      "input": 115913,
+      "cache_write": 0,
+      "cache_read": 1044352,
+      "output": 29730
+    },
+    "gpt-5.4": {
+      "input": 1066833,
+      "cache_write": 0,
+      "cache_read": 8599552,
+      "output": 83162
+    },
+    "gpt-5.5": {
+      "input": 1705882,
+      "cache_write": 0,
+      "cache_read": 34565120,
+      "output": 103681
+    },
+    "qwen2.5:0.5b": {
+      "input": 24576,
+      "cache_write": 0,
+      "cache_read": 0,
+      "output": 617
+    }
+  }
+}

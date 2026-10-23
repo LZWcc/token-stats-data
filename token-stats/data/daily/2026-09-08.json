@@ -1,0 +1,47 @@
+{
+  "date": "2026-09-08",
+  "input": 1742012,
+  "cache_write": 0,
+  "cache_read": 52558720,
+  "output": 389448,
+  "agents": {
+    "claude-code": {
+      "input": 195224,
+      "cache_write": 0,
+      "cache_read": 10009472,
+      "output": 81745
+    },
+    "codex": {
+      "input": 1546788,
+      "cache_write": 0,
+      "cache_read": 42549248,
+      "output": 307703
+    }
+  },
+  "models": {
+    "deepseek-v4-flash": {
+      "input": 126097,
+      "cache_write": 0,
+      "cache_read": 9620736,
+      "output": 78043
+    },
+    "gpt-5.6-luna": {
+      "input": 796108,
+      "cache_write": 0,
+      "cache_read": 22321920,
+      "output": 127126
+    },
+    "gpt-6-astra": {
+      "input": 750680,
+      "cache_write": 0,
+      "cache_read": 20227328,
+      "output": 180577
+    },
+    "mimo-v2.5-pro": {
+      "input": 69127,
+      "cache_write": 0,
+      "cache_read": 388736,
+      "output": 3702
+    }
+  }
+}

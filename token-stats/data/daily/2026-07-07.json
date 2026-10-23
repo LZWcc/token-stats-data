@@ -1,0 +1,23 @@
+{
+  "date": "2026-07-07",
+  "input": 699612,
+  "cache_write": 0,
+  "cache_read": 7642112,
+  "output": 162884,
+  "agents": {
+    "claude-code": {
+      "input": 699612,
+      "cache_write": 0,
+      "cache_read": 7642112,
+      "output": 162884
+    }
+  },
+  "models": {
+    "hy3": {
+      "input": 699612,
+      "cache_write": 0,
+      "cache_read": 7642112,
+      "output": 162884
+    }
+  }
+}

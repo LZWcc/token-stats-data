@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-24",
+  "input": 56,
+  "cache_write": 29300,
+  "cache_read": 6259064,
+  "output": 27085,
+  "agents": {
+    "claude-code": {
+      "input": 56,
+      "cache_write": 29300,
+      "cache_read": 6259064,
+      "output": 27085
+    }
+  },
+  "models": {
+    "claude-opus-5-5": {
+      "input": 56,
+      "cache_write": 29300,
+      "cache_read": 6259064,
+      "output": 27085
+    }
+  }
+}

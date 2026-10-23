@@ -1,0 +1,47 @@
+{
+  "date": "2026-05-28",
+  "input": 1103767,
+  "cache_write": 0,
+  "cache_read": 13614784,
+  "output": 82421,
+  "agents": {
+    "claude-code": {
+      "input": 65420,
+      "cache_write": 0,
+      "cache_read": 2978752,
+      "output": 16002
+    },
+    "codex": {
+      "input": 1038347,
+      "cache_write": 0,
+      "cache_read": 10636032,
+      "output": 66419
+    }
+  },
+  "models": {
+    "codex-auto-review": {
+      "input": 19130,
+      "cache_write": 0,
+      "cache_read": 14080,
+      "output": 275
+    },
+    "gpt-5.4": {
+      "input": 195617,
+      "cache_write": 0,
+      "cache_read": 756224,
+      "output": 7587
+    },
+    "gpt-5.5": {
+      "input": 823600,
+      "cache_write": 0,
+      "cache_read": 9865728,
+      "output": 58557
+    },
+    "mimo-v2.5-pro": {
+      "input": 65420,
+      "cache_write": 0,
+      "cache_read": 2978752,
+      "output": 16002
+    }
+  }
+}

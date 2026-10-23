@@ -1,0 +1,41 @@
+{
+  "date": "2026-09-21",
+  "input": 650908,
+  "cache_write": 0,
+  "cache_read": 20809600,
+  "output": 95631,
+  "agents": {
+    "claude-code": {
+      "input": 154011,
+      "cache_write": 0,
+      "cache_read": 0,
+      "output": 559
+    },
+    "codex": {
+      "input": 496897,
+      "cache_write": 0,
+      "cache_read": 20809600,
+      "output": 95072
+    }
+  },
+  "models": {
+    "gemini-3.7-flash": {
+      "input": 154011,
+      "cache_write": 0,
+      "cache_read": 0,
+      "output": 559
+    },
+    "gpt-5.6-luna": {
+      "input": 296128,
+      "cache_write": 0,
+      "cache_read": 5477376,
+      "output": 53635
+    },
+    "gpt-5.6-sol": {
+      "input": 200769,
+      "cache_write": 0,
+      "cache_read": 15332224,
+      "output": 41437
+    }
+  }
+}

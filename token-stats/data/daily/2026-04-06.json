@@ -1,0 +1,29 @@
+{
+  "date": "2026-04-06",
+  "input": 313,
+  "cache_write": 1446806,
+  "cache_read": 4264679,
+  "output": 38674,
+  "agents": {
+    "claude-code": {
+      "input": 313,
+      "cache_write": 1446806,
+      "cache_read": 4264679,
+      "output": 38674
+    }
+  },
+  "models": {
+    "claude-haiku-4-5-20251001": {
+      "input": 301,
+      "cache_write": 1020279,
+      "cache_read": 4264679,
+      "output": 37943
+    },
+    "claude-sonnet-4-6": {
+      "input": 12,
+      "cache_write": 426527,
+      "cache_read": 0,
+      "output": 731
+    }
+  }
+}

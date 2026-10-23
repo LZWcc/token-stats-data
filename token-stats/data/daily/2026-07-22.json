@@ -1,0 +1,29 @@
+{
+  "date": "2026-07-22",
+  "input": 172033,
+  "cache_write": 0,
+  "cache_read": 979712,
+  "output": 16041,
+  "agents": {
+    "codex": {
+      "input": 172033,
+      "cache_write": 0,
+      "cache_read": 979712,
+      "output": 16041
+    }
+  },
+  "models": {
+    "gpt-5.6-sol": {
+      "input": 75164,
+      "cache_write": 0,
+      "cache_read": 618496,
+      "output": 10527
+    },
+    "gpt-5.6-terra": {
+      "input": 96869,
+      "cache_write": 0,
+      "cache_read": 361216,
+      "output": 5514
+    }
+  }
+}

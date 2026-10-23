@@ -1,0 +1,29 @@
+{
+  "date": "2026-03-12",
+  "input": 256902,
+  "cache_write": 0,
+  "cache_read": 788992,
+  "output": 26408,
+  "agents": {
+    "codex": {
+      "input": 256902,
+      "cache_write": 0,
+      "cache_read": 788992,
+      "output": 26408
+    }
+  },
+  "models": {
+    "gpt-5.3-codex": {
+      "input": 19054,
+      "cache_write": 0,
+      "cache_read": 157824,
+      "output": 3884
+    },
+    "gpt-5.4": {
+      "input": 237848,
+      "cache_write": 0,
+      "cache_read": 631168,
+      "output": 22524
+    }
+  }
+}

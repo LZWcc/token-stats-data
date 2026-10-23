@@ -1,0 +1,53 @@
+{
+  "date": "2026-07-29",
+  "input": 369732,
+  "cache_write": 0,
+  "cache_read": 1202368,
+  "output": 9144,
+  "agents": {
+    "claude-code": {
+      "input": 348754,
+      "cache_write": 0,
+      "cache_read": 1082816,
+      "output": 8312
+    },
+    "codex": {
+      "input": 20978,
+      "cache_write": 0,
+      "cache_read": 119552,
+      "output": 832
+    }
+  },
+  "models": {
+    "codex-auto-review": {
+      "input": 2783,
+      "cache_write": 0,
+      "cache_read": 3584,
+      "output": 54
+    },
+    "deepseek-v4-flash": {
+      "input": 32141,
+      "cache_write": 0,
+      "cache_read": 93184,
+      "output": 1038
+    },
+    "gpt-5.6-terra": {
+      "input": 18195,
+      "cache_write": 0,
+      "cache_read": 115968,
+      "output": 778
+    },
+    "grok-4.5": {
+      "input": 245367,
+      "cache_write": 0,
+      "cache_read": 956864,
+      "output": 6794
+    },
+    "sensenova-6.7-flash-lite": {
+      "input": 71246,
+      "cache_write": 0,
+      "cache_read": 32768,
+      "output": 480
+    }
+  }
+}

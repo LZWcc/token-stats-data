@@ -1,0 +1,53 @@
+{
+  "date": "2026-07-11",
+  "input": 7695138,
+  "cache_write": 0,
+  "cache_read": 114877952,
+  "output": 343493,
+  "agents": {
+    "claude-code": {
+      "input": 3919343,
+      "cache_write": 0,
+      "cache_read": 0,
+      "output": 57326
+    },
+    "codex": {
+      "input": 3775795,
+      "cache_write": 0,
+      "cache_read": 114877952,
+      "output": 286167
+    }
+  },
+  "models": {
+    "anomaly/DeepSeek-V4-Flash-0709": {
+      "input": 153062,
+      "cache_write": 0,
+      "cache_read": 0,
+      "output": 1889
+    },
+    "codex-auto-review": {
+      "input": 217907,
+      "cache_write": 0,
+      "cache_read": 1135104,
+      "output": 3848
+    },
+    "deepseek-v4-flash-free": {
+      "input": 3766281,
+      "cache_write": 0,
+      "cache_read": 0,
+      "output": 55437
+    },
+    "gpt-5.6-luna": {
+      "input": 382376,
+      "cache_write": 0,
+      "cache_read": 3418368,
+      "output": 19682
+    },
+    "gpt-5.6-sol": {
+      "input": 3175512,
+      "cache_write": 0,
+      "cache_read": 110324480,
+      "output": 262637
+    }
+  }
+}

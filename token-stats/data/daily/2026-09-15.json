@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-15",
+  "input": 40,
+  "cache_write": 106877,
+  "cache_read": 1724427,
+  "output": 61538,
+  "agents": {
+    "claude-code": {
+      "input": 40,
+      "cache_write": 106877,
+      "cache_read": 1724427,
+      "output": 61538
+    }
+  },
+  "models": {
+    "claude-sonnet-5": {
+      "input": 40,
+      "cache_write": 106877,
+      "cache_read": 1724427,
+      "output": 61538
+    }
+  }
+}

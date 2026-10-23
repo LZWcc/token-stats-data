@@ -1,0 +1,23 @@
+{
+  "date": "2026-06-18",
+  "input": 26008,
+  "cache_write": 0,
+  "cache_read": 2048,
+  "output": 45,
+  "agents": {
+    "claude-code": {
+      "input": 26008,
+      "cache_write": 0,
+      "cache_read": 2048,
+      "output": 45
+    }
+  },
+  "models": {
+    "mimo-v2.5-pro": {
+      "input": 26008,
+      "cache_write": 0,
+      "cache_read": 2048,
+      "output": 45
+    }
+  }
+}

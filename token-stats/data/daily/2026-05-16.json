@@ -1,0 +1,35 @@
+{
+  "date": "2026-05-16",
+  "input": 671324,
+  "cache_write": 0,
+  "cache_read": 14096640,
+  "output": 116395,
+  "agents": {
+    "claude-code": {
+      "input": 123015,
+      "cache_write": 0,
+      "cache_read": 10092032,
+      "output": 79768
+    },
+    "codex": {
+      "input": 548309,
+      "cache_write": 0,
+      "cache_read": 4004608,
+      "output": 36627
+    }
+  },
+  "models": {
+    "deepseek-v4-pro": {
+      "input": 123015,
+      "cache_write": 0,
+      "cache_read": 10092032,
+      "output": 79768
+    },
+    "gpt-5.5": {
+      "input": 548309,
+      "cache_write": 0,
+      "cache_read": 4004608,
+      "output": 36627
+    }
+  }
+}

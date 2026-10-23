@@ -1,0 +1,23 @@
+{
+  "date": "2026-07-05",
+  "input": 727147,
+  "cache_write": 0,
+  "cache_read": 173184,
+  "output": 4923,
+  "agents": {
+    "claude-code": {
+      "input": 727147,
+      "cache_write": 0,
+      "cache_read": 173184,
+      "output": 4923
+    }
+  },
+  "models": {
+    "claude-haiku-4-5-20251001": {
+      "input": 727147,
+      "cache_write": 0,
+      "cache_read": 173184,
+      "output": 4923
+    }
+  }
+}

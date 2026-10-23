@@ -1,0 +1,35 @@
+{
+  "date": "2026-04-07",
+  "input": 1907184,
+  "cache_write": 224945,
+  "cache_read": 8340992,
+  "output": 154674,
+  "agents": {
+    "claude-code": {
+      "input": 329798,
+      "cache_write": 224945,
+      "cache_read": 210944,
+      "output": 10103
+    },
+    "codex": {
+      "input": 1577386,
+      "cache_write": 0,
+      "cache_read": 8130048,
+      "output": 144571
+    }
+  },
+  "models": {
+    "gpt-5.4": {
+      "input": 1577386,
+      "cache_write": 0,
+      "cache_read": 8130048,
+      "output": 144571
+    },
+    "gpt-5.4-medium": {
+      "input": 329798,
+      "cache_write": 224945,
+      "cache_read": 210944,
+      "output": 10103
+    }
+  }
+}
