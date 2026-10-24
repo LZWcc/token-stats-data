@@ -2,11 +2,11 @@
 <rect x="0.5" y="0.5" width="745" height="179" rx="6" fill="none" stroke="#3d444d"/>
 <text x="16" y="30" font-size="14" font-weight="600" fill="#f0f6fc">Token 统计</text>
 <text x="16" y="58" font-size="12" fill="#9198a1">总量</text>
-<text x="16" y="84" font-size="20" font-weight="600" fill="#f0f6fc">7.5B</text>
+<text x="16" y="84" font-size="20" font-weight="600" fill="#f0f6fc">7.6B</text>
 <text x="254" y="58" font-size="12" fill="#9198a1">近 7 天</text>
-<text x="254" y="84" font-size="20" font-weight="600" fill="#f0f6fc">622.2M</text>
+<text x="254" y="84" font-size="20" font-weight="600" fill="#f0f6fc">684M</text>
 <text x="492" y="58" font-size="12" fill="#9198a1">近 30 天</text>
-<text x="492" y="84" font-size="20" font-weight="600" fill="#f0f6fc">3.5B</text>
+<text x="492" y="84" font-size="20" font-weight="600" fill="#f0f6fc">3.6B</text>
 <text x="16" y="116" font-size="12" fill="#9198a1">活跃天数</text>
 <text x="16" y="142" font-size="20" font-weight="600" fill="#f0f6fc">172 天</text>
 <text x="254" y="116" font-size="12" fill="#9198a1">连续使用</text>
