@@ -1,35 +1,41 @@
 {
   "date": "2026-10-24",
-  "input": 224585,
-  "cache_write": 1647501,
-  "cache_read": 138148080,
-  "output": 921450,
+  "input": 1236559,
+  "cache_write": 2785347,
+  "cache_read": 272537086,
+  "output": 1626859,
   "agents": {
     "claude-code": {
-      "input": 1416,
-      "cache_write": 1647501,
-      "cache_read": 137481200,
-      "output": 919364
+      "input": 2266,
+      "cache_write": 2785347,
+      "cache_read": 234597502,
+      "output": 1567190
     },
     "codex": {
-      "input": 223169,
+      "input": 1234293,
       "cache_write": 0,
-      "cache_read": 666880,
-      "output": 2086
+      "cache_read": 37939584,
+      "output": 59669
     }
   },
   "models": {
     "claude-opus-5-5": {
-      "input": 1416,
-      "cache_write": 1647501,
-      "cache_read": 137481200,
-      "output": 919364
+      "input": 2238,
+      "cache_write": 2753791,
+      "cache_read": 234148297,
+      "output": 1561068
+    },
+    "claude-sonnet-5-5": {
+      "input": 28,
+      "cache_write": 31556,
+      "cache_read": 449205,
+      "output": 6122
     },
     "gpt-6.1-sol": {
-      "input": 223169,
+      "input": 1234293,
       "cache_write": 0,
-      "cache_read": 666880,
-      "output": 2086
+      "cache_read": 37939584,
+      "output": 59669
     }
   }
 }

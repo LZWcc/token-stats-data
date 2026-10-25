@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="365" height="174" viewBox="0 0 365 174" font-family="system-ui, -apple-system, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif">
 <rect x="0.5" y="0.5" width="364" height="173" rx="6" fill="none" stroke="#d1d9e0"/>
-<text x="16" y="30" font-size="14" font-weight="600" fill="#1f2328">工具对比<tspan dx="10" font-size="12" font-weight="400" fill="#59636e">全部时间 · 7.7B</tspan></text>
-<rect x="16.0" y="48" width="168.0" height="10" fill="#10a37f"/>
-<path d="M186.0 48 h159.0 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-159.0 z" fill="#d97757"/>
-<rect x="16" y="76.0" width="10" height="10" rx="2" fill="#10a37f"/>
-<text x="32" y="85.0" font-size="12" font-weight="600" fill="#1f2328">Codex</text>
-<text x="349" y="85.0" font-size="12" text-anchor="end" fill="#1f2328">3.9B<tspan dx="10" font-size="12" font-weight="400" fill="#59636e">51.0%</tspan></text>
-<text x="32" y="103.0" font-size="11" fill="#59636e">近 30 天 663.7M · 活跃 151 天</text>
-<rect x="16" y="117.0" width="10" height="10" rx="2" fill="#d97757"/>
-<text x="32" y="126.0" font-size="12" font-weight="600" fill="#1f2328">Claude Code</text>
-<text x="349" y="126.0" font-size="12" text-anchor="end" fill="#1f2328">3.8B<tspan dx="10" font-size="12" font-weight="400" fill="#59636e">49.0%</tspan></text>
-<text x="32" y="144.0" font-size="11" fill="#59636e">近 30 天 3B · 活跃 99 天</text>
+<text x="16" y="30" font-size="14" font-weight="600" fill="#1f2328">工具对比<tspan dx="10" font-size="12" font-weight="400" fill="#59636e">全部时间 · 8.2B</tspan></text>
+<rect x="16.0" y="48" width="168.4" height="10" fill="#d97757"/>
+<path d="M186.4 48 h158.6 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-158.6 z" fill="#10a37f"/>
+<rect x="16" y="76.0" width="10" height="10" rx="2" fill="#d97757"/>
+<text x="32" y="85.0" font-size="12" font-weight="600" fill="#1f2328">Claude Code</text>
+<text x="349" y="85.0" font-size="12" text-anchor="end" fill="#1f2328">4.2B<tspan dx="10" font-size="12" font-weight="400" fill="#59636e">51.2%</tspan></text>
+<text x="32" y="103.0" font-size="11" fill="#59636e">近 30 天 3.5B · 活跃 100 天</text>
+<rect x="16" y="117.0" width="10" height="10" rx="2" fill="#10a37f"/>
+<text x="32" y="126.0" font-size="12" font-weight="600" fill="#1f2328">Codex</text>
+<text x="349" y="126.0" font-size="12" text-anchor="end" fill="#1f2328">4B<tspan dx="10" font-size="12" font-weight="400" fill="#59636e">48.8%</tspan></text>
+<text x="32" y="144.0" font-size="11" fill="#59636e">近 30 天 744.4M · 活跃 152 天</text>
 </svg>
