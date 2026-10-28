@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-27",
+ "updated": "2026-10-28",
  "metric": "all",
- "total": 8812085971,
- "last7": 1621134506,
- "last30": 4685652038,
- "active_days": 175,
- "streak": 23,
+ "total": 9115251553,
+ "last7": 1839310002,
+ "last30": 4919775113,
+ "active_days": 176,
+ "streak": 24,
  "longest_streak": 33,
  "models": {
-  "claude-opus-5-5": 3769163884,
+  "claude-opus-5-5": 4029597643,
   "gpt-5.6-sol": 1634603456,
   "gpt-5.5": 871570433,
-  "gpt-6.1-sol": 675650777,
+  "gpt-6.1-sol": 700690924,
   "gpt-5.6-luna": 325633328,
   "gpt-5.4": 323488467,
   "claude-sonnet-5": 254449403,
@@ -27,6 +27,7 @@
   "claude-haiku-4-5-20251001": 45821639,
   "deepseek-v4-flash": 35685515,
   "gpt-5.3-codex": 26937859,
+  "gpt-6.1-terra": 20812213,
   "claude-sonnet-4-6": 20019444,
   "gpt-5.4-mini": 12698462,
   "hy3": 9490468,
@@ -37,7 +38,6 @@
   "gpt-6-luna": 4259328,
   "claude-haiku-5-5": 3708862,
   "mimo-v2.5": 3706573,
-  "gpt-6.1-terra": 3120537,
   "euromodels": 2706990,
   "grok-4.5": 1559489,
   "gpt-5.4-medium": 775790,
@@ -56,8 +56,8 @@
   "claude-haiku-4-5": 11566
  },
  "agents": {
-  "claude-code": 4704387865,
-  "codex": 4107698106
+  "claude-code": 4964821624,
+  "codex": 4150429929
  },
  "daily": [
   {
@@ -982,7 +982,11 @@
   },
   {
    "date": "2026-10-27",
-   "total": 259191712
+   "total": 294277280
+  },
+  {
+   "date": "2026-10-28",
+   "total": 268080014
   }
  ]
 }
