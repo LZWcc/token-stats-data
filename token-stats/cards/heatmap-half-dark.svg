@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="365" height="174" viewBox="0 0 365 174" font-family="system-ui, -apple-system, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif">
 <rect x="0.5" y="0.5" width="364" height="173" rx="6" fill="none" stroke="#3d444d"/>
-<text x="16" y="30" font-size="14" font-weight="600" fill="#f0f6fc">Token 用量<tspan dx="10" font-size="12" font-weight="400" fill="#9198a1">近半年 8.7B · 活跃 145 天</tspan></text>
+<text x="16" y="30" font-size="14" font-weight="600" fill="#f0f6fc">Token 用量<tspan dx="10" font-size="12" font-weight="400" fill="#9198a1">近半年 8.9B · 活跃 146 天</tspan></text>
 <text x="44" y="54" font-size="10" fill="#9198a1">May</text>
 <text x="99" y="54" font-size="10" fill="#9198a1">Jun</text>
 <text x="143" y="54" font-size="10" fill="#9198a1">Jul</text>
@@ -189,6 +189,7 @@
 <rect x="319" y="73" width="9" height="9" rx="2" fill="#64cc9d"/>
 <rect x="319" y="84" width="9" height="9" rx="2" fill="#64cc9d"/>
 <rect x="319" y="95" width="9" height="9" rx="2" fill="#64cc9d"/>
+<rect x="319" y="106" width="9" height="9" rx="2" fill="#64cc9d"/>
 <text x="276" y="157" font-size="10" text-anchor="end" fill="#9198a1">少</text>
 <rect x="280" y="149" width="9" height="9" rx="2" fill="#1b2129"/>
 <rect x="291" y="149" width="9" height="9" rx="2" fill="#024d4a"/>

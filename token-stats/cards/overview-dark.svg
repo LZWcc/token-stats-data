@@ -189,6 +189,7 @@
 <rect x="721" y="73" width="9" height="9" rx="2" fill="#64cc9d"/>
 <rect x="721" y="84" width="9" height="9" rx="2" fill="#64cc9d"/>
 <rect x="721" y="95" width="9" height="9" rx="2" fill="#64cc9d"/>
+<rect x="721" y="106" width="9" height="9" rx="2" fill="#64cc9d"/>
 <text x="657" y="157" font-size="10" text-anchor="end" fill="#9198a1">少</text>
 <rect x="661" y="149" width="9" height="9" rx="2" fill="#1b2129"/>
 <rect x="672" y="149" width="9" height="9" rx="2" fill="#024d4a"/>
@@ -196,45 +197,45 @@
 <rect x="694" y="149" width="9" height="9" rx="2" fill="#2f9e7f"/>
 <rect x="705" y="149" width="9" height="9" rx="2" fill="#64cc9d"/>
 <text x="717" y="157" font-size="10" fill="#9198a1">多</text>
-<circle cx="64" cy="105.0" r="38" fill="none" stroke="#d97757" stroke-width="14" stroke-dasharray="103.55 238.76" stroke-dashoffset="-0.00" transform="rotate(-90 64 105.0)"/>
-<circle cx="64" cy="105.0" r="38" fill="none" stroke="#10a37f" stroke-width="14" stroke-dasharray="40.82 238.76" stroke-dashoffset="-105.55" transform="rotate(-90 64 105.0)"/>
-<circle cx="64" cy="105.0" r="38" fill="none" stroke="#a183d4" stroke-width="14" stroke-dasharray="20.83 238.76" stroke-dashoffset="-148.37" transform="rotate(-90 64 105.0)"/>
-<circle cx="64" cy="105.0" r="38" fill="none" stroke="#ac942f" stroke-width="14" stroke-dasharray="16.35 238.76" stroke-dashoffset="-171.20" transform="rotate(-90 64 105.0)"/>
-<circle cx="64" cy="105.0" r="38" fill="none" stroke="#3aa0d4" stroke-width="14" stroke-dasharray="6.53 238.76" stroke-dashoffset="-189.55" transform="rotate(-90 64 105.0)"/>
-<circle cx="64" cy="105.0" r="38" fill="none" stroke="#52514e" stroke-width="14" stroke-dasharray="38.68 238.76" stroke-dashoffset="-198.08" transform="rotate(-90 64 105.0)"/>
-<text x="64" y="108.0" font-size="15" font-weight="600" text-anchor="middle" fill="#f0f6fc">9.1B</text>
+<circle cx="64" cy="105.0" r="38" fill="none" stroke="#d97757" stroke-width="14" stroke-dasharray="105.08 238.76" stroke-dashoffset="-0.00" transform="rotate(-90 64 105.0)"/>
+<circle cx="64" cy="105.0" r="38" fill="none" stroke="#10a37f" stroke-width="14" stroke-dasharray="40.19 238.76" stroke-dashoffset="-107.08" transform="rotate(-90 64 105.0)"/>
+<circle cx="64" cy="105.0" r="38" fill="none" stroke="#a183d4" stroke-width="14" stroke-dasharray="20.49 238.76" stroke-dashoffset="-149.27" transform="rotate(-90 64 105.0)"/>
+<circle cx="64" cy="105.0" r="38" fill="none" stroke="#ac942f" stroke-width="14" stroke-dasharray="16.51 238.76" stroke-dashoffset="-171.76" transform="rotate(-90 64 105.0)"/>
+<circle cx="64" cy="105.0" r="38" fill="none" stroke="#3aa0d4" stroke-width="14" stroke-dasharray="6.40 238.76" stroke-dashoffset="-190.27" transform="rotate(-90 64 105.0)"/>
+<circle cx="64" cy="105.0" r="38" fill="none" stroke="#52514e" stroke-width="14" stroke-dasharray="38.09 238.76" stroke-dashoffset="-198.68" transform="rotate(-90 64 105.0)"/>
+<text x="64" y="108.0" font-size="15" font-weight="600" text-anchor="middle" fill="#f0f6fc">9.3B</text>
 <text x="64" y="120.0" font-size="9" text-anchor="middle" fill="#9198a1">tokens</text>
 <rect x="129" y="55.8" width="10" height="10" rx="2" fill="#d97757"/>
 <text x="145" y="64.8" font-size="11" fill="#f0f6fc">claude-opus-5-5</text>
-<text x="354" y="64.8" font-size="11" text-anchor="end" fill="#9198a1">4B</text>
-<text x="394" y="64.8" font-size="11" text-anchor="end" fill="#9198a1">44.2%</text>
+<text x="354" y="64.8" font-size="11" text-anchor="end" fill="#9198a1">4.1B</text>
+<text x="394" y="64.8" font-size="11" text-anchor="end" fill="#9198a1">44.8%</text>
 <rect x="129" y="73.5" width="10" height="10" rx="2" fill="#10a37f"/>
 <text x="145" y="82.5" font-size="11" fill="#f0f6fc">gpt-5.6-sol</text>
 <text x="354" y="82.5" font-size="11" text-anchor="end" fill="#9198a1">1.6B</text>
-<text x="394" y="82.5" font-size="11" text-anchor="end" fill="#9198a1">17.9%</text>
+<text x="394" y="82.5" font-size="11" text-anchor="end" fill="#9198a1">17.7%</text>
 <rect x="129" y="91.2" width="10" height="10" rx="2" fill="#a183d4"/>
 <text x="145" y="100.2" font-size="11" fill="#f0f6fc">gpt-5.5</text>
 <text x="354" y="100.2" font-size="11" text-anchor="end" fill="#9198a1">871.6M</text>
-<text x="394" y="100.2" font-size="11" text-anchor="end" fill="#9198a1">9.6%</text>
+<text x="394" y="100.2" font-size="11" text-anchor="end" fill="#9198a1">9.4%</text>
 <rect x="129" y="108.8" width="10" height="10" rx="2" fill="#ac942f"/>
 <text x="145" y="117.8" font-size="11" fill="#f0f6fc">gpt-6.1-sol</text>
-<text x="354" y="117.8" font-size="11" text-anchor="end" fill="#9198a1">700.7M</text>
-<text x="394" y="117.8" font-size="11" text-anchor="end" fill="#9198a1">7.7%</text>
+<text x="354" y="117.8" font-size="11" text-anchor="end" fill="#9198a1">717.2M</text>
+<text x="394" y="117.8" font-size="11" text-anchor="end" fill="#9198a1">7.8%</text>
 <rect x="129" y="126.5" width="10" height="10" rx="2" fill="#3aa0d4"/>
 <text x="145" y="135.5" font-size="11" fill="#f0f6fc">gpt-5.6-luna</text>
 <text x="354" y="135.5" font-size="11" text-anchor="end" fill="#9198a1">325.6M</text>
-<text x="394" y="135.5" font-size="11" text-anchor="end" fill="#9198a1">3.6%</text>
+<text x="394" y="135.5" font-size="11" text-anchor="end" fill="#9198a1">3.5%</text>
 <rect x="129" y="144.2" width="10" height="10" rx="2" fill="#52514e"/>
 <text x="145" y="153.2" font-size="11" fill="#f0f6fc">其他 41 个模型</text>
 <text x="354" y="153.2" font-size="11" text-anchor="end" fill="#9198a1">1.6B</text>
-<text x="394" y="153.2" font-size="11" text-anchor="end" fill="#9198a1">17.0%</text>
+<text x="394" y="153.2" font-size="11" text-anchor="end" fill="#9198a1">16.8%</text>
 <line x1="16" y1="177.5" x2="730" y2="177.5" stroke="#1b2129" stroke-width="1"/>
 <text x="16.0" y="200" font-size="12" fill="#9198a1">近 7 天</text>
-<text x="16.0" y="224" font-size="18" font-weight="600" fill="#f0f6fc">1.8B</text>
+<text x="16.0" y="224" font-size="18" font-weight="600" fill="#f0f6fc">1.9B</text>
 <text x="194.5" y="200" font-size="12" fill="#9198a1">近 30 天</text>
 <text x="194.5" y="224" font-size="18" font-weight="600" fill="#f0f6fc">4.9B</text>
 <text x="373.0" y="200" font-size="12" fill="#9198a1">活跃天数</text>
-<text x="373.0" y="224" font-size="18" font-weight="600" fill="#f0f6fc">176 天</text>
+<text x="373.0" y="224" font-size="18" font-weight="600" fill="#f0f6fc">177 天</text>
 <text x="551.5" y="200" font-size="12" fill="#9198a1">连续使用</text>
-<text x="551.5" y="224" font-size="18" font-weight="600" fill="#f0f6fc">24 天<tspan dx="10" font-size="12" font-weight="400" fill="#9198a1">最长 33 天</tspan></text>
+<text x="551.5" y="224" font-size="18" font-weight="600" fill="#f0f6fc">25 天<tspan dx="10" font-size="12" font-weight="400" fill="#9198a1">最长 33 天</tspan></text>
 </svg>
