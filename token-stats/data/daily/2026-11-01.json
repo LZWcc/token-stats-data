@@ -1,23 +1,29 @@
 {
   "date": "2026-11-01",
-  "input": 32,
-  "cache_write": 26541,
-  "cache_read": 7411388,
-  "output": 15857,
+  "input": 1314,
+  "cache_write": 2063950,
+  "cache_read": 151641539,
+  "output": 764116,
   "agents": {
     "claude-code": {
-      "input": 32,
-      "cache_write": 26541,
-      "cache_read": 7411388,
-      "output": 15857
+      "input": 1314,
+      "cache_write": 2063950,
+      "cache_read": 151641539,
+      "output": 764116
     }
   },
   "models": {
     "claude-opus-5-5": {
-      "input": 32,
-      "cache_write": 26541,
-      "cache_read": 7411388,
-      "output": 15857
+      "input": 104,
+      "cache_write": 92157,
+      "cache_read": 25129684,
+      "output": 60932
+    },
+    "claude-sonnet-5-5": {
+      "input": 1210,
+      "cache_write": 1971793,
+      "cache_read": 126511855,
+      "output": 703184
     }
   }
 }
