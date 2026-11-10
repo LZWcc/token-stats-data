@@ -1,30 +1,30 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="365" height="274" viewBox="0 0 365 274" font-family="system-ui, -apple-system, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif">
 <rect x="0.5" y="0.5" width="364" height="273" rx="6" fill="none" stroke="#d1d9e0"/>
-<text x="16" y="30" font-size="14" font-weight="600" fill="#1f2328">模型排行<tspan dx="10" font-size="12" font-weight="400" fill="#59636e">全部时间 · 前 8 / 共 46 个</tspan></text>
+<text x="16" y="30" font-size="14" font-weight="600" fill="#1f2328">模型排行<tspan dx="10" font-size="12" font-weight="400" fill="#59636e">全部时间 · 前 8 / 共 47 个</tspan></text>
 <path d="M142 58.5 h159.0 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-159.0 z" fill="#d97757"/>
 <text x="16" y="67.5" font-size="11" fill="#1f2328">claude-opus-5-5</text>
-<text x="311.0" y="67.5" font-size="11" fill="#59636e">4.4B</text>
-<path d="M142 81.5 h55.9 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-55.9 z" fill="#10a37f"/>
+<text x="311.0" y="67.5" font-size="11" fill="#59636e">4.7B</text>
+<path d="M142 81.5 h53.1 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-53.1 z" fill="#10a37f"/>
 <text x="16" y="90.5" font-size="11" fill="#1f2328">gpt-5.6-sol</text>
-<text x="207.9" y="90.5" font-size="11" fill="#59636e">1.6B</text>
-<path d="M142 104.5 h34.9 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-34.9 z" fill="#10a37f"/>
+<text x="205.1" y="90.5" font-size="11" fill="#59636e">1.6B</text>
+<path d="M142 104.5 h37.5 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-37.5 z" fill="#10a37f"/>
 <text x="16" y="113.5" font-size="11" fill="#1f2328">gpt-6.1-sol</text>
-<text x="186.9" y="113.5" font-size="11" fill="#59636e">1.1B</text>
-<path d="M142 127.5 h28.0 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-28.0 z" fill="#10a37f"/>
+<text x="189.5" y="113.5" font-size="11" fill="#59636e">1.2B</text>
+<path d="M142 127.5 h26.5 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-26.5 z" fill="#10a37f"/>
 <text x="16" y="136.5" font-size="11" fill="#1f2328">gpt-5.5</text>
-<text x="180.0" y="136.5" font-size="11" fill="#59636e">871.6M</text>
-<path d="M142 150.5 h8.2 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-8.2 z" fill="#10a37f"/>
+<text x="178.5" y="136.5" font-size="11" fill="#59636e">871.6M</text>
+<path d="M142 150.5 h7.6 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-7.6 z" fill="#10a37f"/>
 <text x="16" y="159.5" font-size="11" fill="#1f2328">gpt-5.6-luna</text>
-<text x="160.2" y="159.5" font-size="11" fill="#59636e">332.1M</text>
-<path d="M142 173.5 h7.9 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-7.9 z" fill="#10a37f"/>
+<text x="159.6" y="159.5" font-size="11" fill="#59636e">332.1M</text>
+<path d="M142 173.5 h7.3 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-7.3 z" fill="#10a37f"/>
 <text x="16" y="182.5" font-size="11" fill="#1f2328">gpt-5.4</text>
-<text x="159.9" y="182.5" font-size="11" fill="#59636e">323.5M</text>
-<path d="M142 196.5 h6.2 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-6.2 z" fill="#d97757"/>
+<text x="159.3" y="182.5" font-size="11" fill="#59636e">323.5M</text>
+<path d="M142 196.5 h5.8 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-5.8 z" fill="#d97757"/>
 <text x="16" y="205.5" font-size="11" fill="#1f2328">claude-sonnet-5</text>
-<text x="158.2" y="205.5" font-size="11" fill="#59636e">279M</text>
-<path d="M142 219.5 h5.2 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-5.2 z" fill="#d97757"/>
+<text x="157.8" y="205.5" font-size="11" fill="#59636e">279M</text>
+<path d="M142 219.5 h4.9 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-4.9 z" fill="#d97757"/>
 <text x="16" y="228.5" font-size="11" fill="#1f2328">claude-sonnet-5-5</text>
-<text x="157.2" y="228.5" font-size="11" fill="#59636e">250.5M</text>
+<text x="156.9" y="228.5" font-size="11" fill="#59636e">254.5M</text>
 <rect x="16.0" y="248" width="10" height="10" rx="2" fill="#d97757"/>
 <text x="30.0" y="257" font-size="11" fill="#59636e">Anthropic</text>
 <rect x="103.4" y="248" width="10" height="10" rx="2" fill="#10a37f"/>
