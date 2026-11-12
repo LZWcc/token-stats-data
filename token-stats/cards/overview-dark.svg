@@ -198,18 +198,18 @@
 <rect x="694" y="149" width="9" height="9" rx="2" fill="#2f9e7f"/>
 <rect x="705" y="149" width="9" height="9" rx="2" fill="#64cc9d"/>
 <text x="717" y="157" font-size="10" fill="#9198a1">多</text>
-<circle cx="64" cy="105.0" r="38" fill="none" stroke="#d97757" stroke-width="14" stroke-dasharray="102.23 238.76" stroke-dashoffset="-0.00" transform="rotate(-90 64 105.0)"/>
-<circle cx="64" cy="105.0" r="38" fill="none" stroke="#10a37f" stroke-width="14" stroke-dasharray="34.53 238.76" stroke-dashoffset="-104.23" transform="rotate(-90 64 105.0)"/>
-<circle cx="64" cy="105.0" r="38" fill="none" stroke="#a183d4" stroke-width="14" stroke-dasharray="25.17 238.76" stroke-dashoffset="-140.76" transform="rotate(-90 64 105.0)"/>
-<circle cx="64" cy="105.0" r="38" fill="none" stroke="#ac942f" stroke-width="14" stroke-dasharray="17.48 238.76" stroke-dashoffset="-167.93" transform="rotate(-90 64 105.0)"/>
-<circle cx="64" cy="105.0" r="38" fill="none" stroke="#3aa0d4" stroke-width="14" stroke-dasharray="5.42 238.76" stroke-dashoffset="-187.41" transform="rotate(-90 64 105.0)"/>
-<circle cx="64" cy="105.0" r="38" fill="none" stroke="#52514e" stroke-width="14" stroke-dasharray="41.93 238.76" stroke-dashoffset="-194.84" transform="rotate(-90 64 105.0)"/>
+<circle cx="64" cy="105.0" r="38" fill="none" stroke="#d97757" stroke-width="14" stroke-dasharray="102.20 238.76" stroke-dashoffset="-0.00" transform="rotate(-90 64 105.0)"/>
+<circle cx="64" cy="105.0" r="38" fill="none" stroke="#10a37f" stroke-width="14" stroke-dasharray="34.52 238.76" stroke-dashoffset="-104.20" transform="rotate(-90 64 105.0)"/>
+<circle cx="64" cy="105.0" r="38" fill="none" stroke="#a183d4" stroke-width="14" stroke-dasharray="25.23 238.76" stroke-dashoffset="-140.72" transform="rotate(-90 64 105.0)"/>
+<circle cx="64" cy="105.0" r="38" fill="none" stroke="#ac942f" stroke-width="14" stroke-dasharray="17.47 238.76" stroke-dashoffset="-167.95" transform="rotate(-90 64 105.0)"/>
+<circle cx="64" cy="105.0" r="38" fill="none" stroke="#3aa0d4" stroke-width="14" stroke-dasharray="5.42 238.76" stroke-dashoffset="-187.43" transform="rotate(-90 64 105.0)"/>
+<circle cx="64" cy="105.0" r="38" fill="none" stroke="#52514e" stroke-width="14" stroke-dasharray="41.91 238.76" stroke-dashoffset="-194.85" transform="rotate(-90 64 105.0)"/>
 <text x="64" y="108.0" font-size="15" font-weight="600" text-anchor="middle" fill="#f0f6fc">10.7B</text>
 <text x="64" y="120.0" font-size="9" text-anchor="middle" fill="#9198a1">tokens</text>
 <rect x="129" y="55.8" width="10" height="10" rx="2" fill="#d97757"/>
 <text x="145" y="64.8" font-size="11" fill="#f0f6fc">claude-opus-5-5</text>
 <text x="354" y="64.8" font-size="11" text-anchor="end" fill="#9198a1">4.7B</text>
-<text x="394" y="64.8" font-size="11" text-anchor="end" fill="#9198a1">43.7%</text>
+<text x="394" y="64.8" font-size="11" text-anchor="end" fill="#9198a1">43.6%</text>
 <rect x="129" y="73.5" width="10" height="10" rx="2" fill="#10a37f"/>
 <text x="145" y="82.5" font-size="11" fill="#f0f6fc">gpt-5.6-sol</text>
 <text x="354" y="82.5" font-size="11" text-anchor="end" fill="#9198a1">1.6B</text>
@@ -232,7 +232,7 @@
 <text x="394" y="153.2" font-size="11" text-anchor="end" fill="#9198a1">18.4%</text>
 <line x1="16" y1="177.5" x2="730" y2="177.5" stroke="#1b2129" stroke-width="1"/>
 <text x="16.0" y="200" font-size="12" fill="#9198a1">近 7 天</text>
-<text x="16.0" y="224" font-size="18" font-weight="600" fill="#f0f6fc">593.3M</text>
+<text x="16.0" y="224" font-size="18" font-weight="600" fill="#f0f6fc">596.4M</text>
 <text x="194.5" y="200" font-size="12" fill="#9198a1">近 30 天</text>
 <text x="194.5" y="224" font-size="18" font-weight="600" fill="#f0f6fc">4.8B</text>
 <text x="373.0" y="200" font-size="12" fill="#9198a1">活跃天数</text>
