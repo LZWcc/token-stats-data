@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-12",
+  "input": 108220,
+  "cache_write": 0,
+  "cache_read": 4600064,
+  "output": 20146,
+  "agents": {
+    "codex": {
+      "input": 108220,
+      "cache_write": 0,
+      "cache_read": 4600064,
+      "output": 20146
+    }
+  },
+  "models": {
+    "gpt-6.1-sol": {
+      "input": 108220,
+      "cache_write": 0,
+      "cache_read": 4600064,
+      "output": 20146
+    }
+  }
+}

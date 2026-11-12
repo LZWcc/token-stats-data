@@ -1,21 +1,21 @@
 {
- "updated": "2026-11-10",
+ "updated": "2026-11-12",
  "metric": "all",
- "total": 10630367322,
- "last7": 621065596,
- "last30": 5111079076,
- "active_days": 189,
- "streak": 37,
- "longest_streak": 37,
+ "total": 10682642191,
+ "last7": 593283697,
+ "last30": 4819266074,
+ "active_days": 191,
+ "streak": 39,
+ "longest_streak": 39,
  "models": {
   "claude-opus-5-5": 4663304916,
   "gpt-5.6-sol": 1634603456,
-  "gpt-6.1-sol": 1187262682,
+  "gpt-6.1-sol": 1215760425,
   "gpt-5.5": 871570433,
   "gpt-5.6-luna": 332084520,
   "gpt-5.4": 323488467,
   "claude-sonnet-5": 278959089,
-  "claude-sonnet-5-5": 254500124,
+  "claude-sonnet-5-5": 271218729,
   "gpt-6.1-terra": 168632815,
   "mimo-v2.5-pro": 149418882,
   "gpt-6-sol": 101510446,
@@ -24,11 +24,11 @@
   "gpt-6-astra": 76088097,
   "gpt-5.6-terra": 74479284,
   "claude-opus-4-6": 70387511,
-  "codex-auto-review": 55000006,
+  "codex-auto-review": 55058403,
   "claude-haiku-4-5-20251001": 45821639,
   "deepseek-v4-flash": 35685515,
+  "claude-fable-5-2": 31314214,
   "gpt-5.3-codex": 26937859,
-  "claude-fable-5-2": 24314090,
   "claude-sonnet-4-6": 20019444,
   "gpt-5.4-mini": 12698462,
   "hy3": 9490468,
@@ -57,8 +57,8 @@
   "claude-haiku-4-5": 11566
  },
  "agents": {
-  "claude-code": 5839093841,
-  "codex": 4791273481
+  "claude-code": 5862812570,
+  "codex": 4819829621
  },
  "daily": [
   {
@@ -1039,7 +1039,15 @@
   },
   {
    "date": "2026-11-10",
-   "total": 36910196
+   "total": 77123489
+  },
+  {
+   "date": "2026-11-11",
+   "total": 7333146
+  },
+  {
+   "date": "2026-11-12",
+   "total": 4728430
   }
  ]
 }
