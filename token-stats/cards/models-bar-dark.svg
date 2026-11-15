@@ -4,27 +4,27 @@
 <path d="M142 58.5 h159.0 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-159.0 z" fill="#d97757"/>
 <text x="16" y="67.5" font-size="11" fill="#f0f6fc">claude-opus-5-5</text>
 <text x="311.0" y="67.5" font-size="11" fill="#9198a1">4.7B</text>
-<path d="M142 81.5 h53.1 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-53.1 z" fill="#10a37f"/>
+<path d="M142 81.5 h52.4 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-52.4 z" fill="#10a37f"/>
 <text x="16" y="90.5" font-size="11" fill="#f0f6fc">gpt-5.6-sol</text>
-<text x="205.1" y="90.5" font-size="11" fill="#9198a1">1.6B</text>
-<path d="M142 104.5 h38.6 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-38.6 z" fill="#10a37f"/>
+<text x="204.4" y="90.5" font-size="11" fill="#9198a1">1.6B</text>
+<path d="M142 104.5 h40.8 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-40.8 z" fill="#10a37f"/>
 <text x="16" y="113.5" font-size="11" fill="#f0f6fc">gpt-6.1-sol</text>
-<text x="190.6" y="113.5" font-size="11" fill="#9198a1">1.2B</text>
-<path d="M142 127.5 h26.5 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-26.5 z" fill="#10a37f"/>
+<text x="192.8" y="113.5" font-size="11" fill="#9198a1">1.3B</text>
+<path d="M142 127.5 h26.1 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-26.1 z" fill="#10a37f"/>
 <text x="16" y="136.5" font-size="11" fill="#f0f6fc">gpt-5.5</text>
-<text x="178.5" y="136.5" font-size="11" fill="#9198a1">871.6M</text>
-<path d="M142 150.5 h7.6 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-7.6 z" fill="#10a37f"/>
+<text x="178.1" y="136.5" font-size="11" fill="#9198a1">871.6M</text>
+<path d="M142 150.5 h7.5 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-7.5 z" fill="#10a37f"/>
 <text x="16" y="159.5" font-size="11" fill="#f0f6fc">gpt-5.6-luna</text>
-<text x="159.6" y="159.5" font-size="11" fill="#9198a1">332.1M</text>
-<path d="M142 173.5 h7.3 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-7.3 z" fill="#10a37f"/>
+<text x="159.5" y="159.5" font-size="11" fill="#9198a1">332.1M</text>
+<path d="M142 173.5 h7.2 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-7.2 z" fill="#10a37f"/>
 <text x="16" y="182.5" font-size="11" fill="#f0f6fc">gpt-5.4</text>
-<text x="159.3" y="182.5" font-size="11" fill="#9198a1">323.5M</text>
-<path d="M142 196.5 h5.8 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-5.8 z" fill="#d97757"/>
+<text x="159.2" y="182.5" font-size="11" fill="#9198a1">323.5M</text>
+<path d="M142 196.5 h5.6 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-5.6 z" fill="#d97757"/>
 <text x="16" y="205.5" font-size="11" fill="#f0f6fc">claude-sonnet-5</text>
-<text x="157.8" y="205.5" font-size="11" fill="#9198a1">279M</text>
-<path d="M142 219.5 h5.5 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-5.5 z" fill="#d97757"/>
+<text x="157.6" y="205.5" font-size="11" fill="#9198a1">279M</text>
+<path d="M142 219.5 h5.4 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-5.4 z" fill="#d97757"/>
 <text x="16" y="228.5" font-size="11" fill="#f0f6fc">claude-sonnet-5-5</text>
-<text x="157.5" y="228.5" font-size="11" fill="#9198a1">271.2M</text>
+<text x="157.4" y="228.5" font-size="11" fill="#9198a1">271.2M</text>
 <rect x="16.0" y="248" width="10" height="10" rx="2" fill="#d97757"/>
 <text x="30.0" y="257" font-size="11" fill="#9198a1">Anthropic</text>
 <rect x="103.4" y="248" width="10" height="10" rx="2" fill="#10a37f"/>
