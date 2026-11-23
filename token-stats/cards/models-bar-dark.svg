@@ -1,30 +1,30 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="365" height="274" viewBox="0 0 365 274" font-family="system-ui, -apple-system, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif">
 <rect x="0.5" y="0.5" width="364" height="273" rx="6" fill="none" stroke="#3d444d"/>
-<text x="16" y="30" font-size="14" font-weight="600" fill="#f0f6fc">模型排行<tspan dx="10" font-size="12" font-weight="400" fill="#9198a1">全部时间 · 前 8 / 共 47 个</tspan></text>
+<text x="16" y="30" font-size="14" font-weight="600" fill="#f0f6fc">模型排行<tspan dx="10" font-size="12" font-weight="400" fill="#9198a1">全部时间 · 前 8 / 共 49 个</tspan></text>
 <path d="M142 58.5 h159.0 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-159.0 z" fill="#d97757"/>
 <text x="16" y="67.5" font-size="11" fill="#f0f6fc">claude-opus-5-5</text>
-<text x="311.0" y="67.5" font-size="11" fill="#9198a1">4.7B</text>
-<path d="M142 81.5 h52.4 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-52.4 z" fill="#10a37f"/>
+<text x="311.0" y="67.5" font-size="11" fill="#9198a1">5.1B</text>
+<path d="M142 81.5 h48.4 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-48.4 z" fill="#10a37f"/>
 <text x="16" y="90.5" font-size="11" fill="#f0f6fc">gpt-5.6-sol</text>
-<text x="204.4" y="90.5" font-size="11" fill="#9198a1">1.6B</text>
-<path d="M142 104.5 h40.8 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-40.8 z" fill="#10a37f"/>
+<text x="200.4" y="90.5" font-size="11" fill="#9198a1">1.6B</text>
+<path d="M142 104.5 h37.6 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-37.6 z" fill="#10a37f"/>
 <text x="16" y="113.5" font-size="11" fill="#f0f6fc">gpt-6.1-sol</text>
-<text x="192.8" y="113.5" font-size="11" fill="#9198a1">1.3B</text>
-<path d="M142 127.5 h26.1 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-26.1 z" fill="#10a37f"/>
+<text x="189.6" y="113.5" font-size="11" fill="#9198a1">1.3B</text>
+<path d="M142 127.5 h23.9 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-23.9 z" fill="#10a37f"/>
 <text x="16" y="136.5" font-size="11" fill="#f0f6fc">gpt-5.5</text>
-<text x="178.1" y="136.5" font-size="11" fill="#9198a1">871.6M</text>
-<path d="M142 150.5 h7.5 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-7.5 z" fill="#10a37f"/>
-<text x="16" y="159.5" font-size="11" fill="#f0f6fc">gpt-5.6-luna</text>
-<text x="159.5" y="159.5" font-size="11" fill="#9198a1">332.1M</text>
-<path d="M142 173.5 h7.2 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-7.2 z" fill="#10a37f"/>
-<text x="16" y="182.5" font-size="11" fill="#f0f6fc">gpt-5.4</text>
-<text x="159.2" y="182.5" font-size="11" fill="#9198a1">323.5M</text>
-<path d="M142 196.5 h5.6 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-5.6 z" fill="#d97757"/>
-<text x="16" y="205.5" font-size="11" fill="#f0f6fc">claude-sonnet-5</text>
-<text x="157.6" y="205.5" font-size="11" fill="#9198a1">279M</text>
-<path d="M142 219.5 h5.4 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-5.4 z" fill="#d97757"/>
-<text x="16" y="228.5" font-size="11" fill="#f0f6fc">claude-sonnet-5-5</text>
-<text x="157.4" y="228.5" font-size="11" fill="#9198a1">271.2M</text>
+<text x="175.9" y="136.5" font-size="11" fill="#9198a1">871.6M</text>
+<path d="M142 150.5 h9.7 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-9.7 z" fill="#d97757"/>
+<text x="16" y="159.5" font-size="11" fill="#f0f6fc">claude-sonnet-5-5</text>
+<text x="161.7" y="159.5" font-size="11" fill="#9198a1">426.7M</text>
+<path d="M142 173.5 h7.7 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-7.7 z" fill="#10a37f"/>
+<text x="16" y="182.5" font-size="11" fill="#f0f6fc">gpt-6.1-terra</text>
+<text x="159.7" y="182.5" font-size="11" fill="#9198a1">365.3M</text>
+<path d="M142 196.5 h6.6 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-6.6 z" fill="#10a37f"/>
+<text x="16" y="205.5" font-size="11" fill="#f0f6fc">gpt-5.6-luna</text>
+<text x="158.6" y="205.5" font-size="11" fill="#9198a1">332.1M</text>
+<path d="M142 219.5 h6.4 a4.0 4.0 0 0 1 4.0 4.0 v2.0 a4.0 4.0 0 0 1 -4.0 4.0 h-6.4 z" fill="#10a37f"/>
+<text x="16" y="228.5" font-size="11" fill="#f0f6fc">gpt-5.4</text>
+<text x="158.4" y="228.5" font-size="11" fill="#9198a1">323.5M</text>
 <rect x="16.0" y="248" width="10" height="10" rx="2" fill="#d97757"/>
 <text x="30.0" y="257" font-size="11" fill="#9198a1">Anthropic</text>
 <rect x="103.4" y="248" width="10" height="10" rx="2" fill="#10a37f"/>

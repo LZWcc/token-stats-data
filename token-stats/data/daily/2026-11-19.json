@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-19",
+  "input": 1371877,
+  "cache_write": 1466597,
+  "cache_read": 149486492,
+  "output": 681995,
+  "agents": {
+    "claude-code": {
+      "input": 1278,
+      "cache_write": 1466597,
+      "cache_read": 67674140,
+      "output": 521084
+    },
+    "codex": {
+      "input": 1370599,
+      "cache_write": 0,
+      "cache_read": 81812352,
+      "output": 160911
+    }
+  },
+  "models": {
+    "claude-opus-5-5": {
+      "input": 822,
+      "cache_write": 1087701,
+      "cache_read": 45642467,
+      "output": 323236
+    },
+    "claude-sonnet-5-5": {
+      "input": 456,
+      "cache_write": 378896,
+      "cache_read": 22031673,
+      "output": 197848
+    },
+    "gpt-6.2-sol": {
+      "input": 1370599,
+      "cache_write": 0,
+      "cache_read": 81812352,
+      "output": 160911
+    }
+  }
+}

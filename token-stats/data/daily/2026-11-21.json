@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-21",
+  "input": 306,
+  "cache_write": 395601,
+  "cache_read": 28685179,
+  "output": 229163,
+  "agents": {
+    "claude-code": {
+      "input": 306,
+      "cache_write": 395601,
+      "cache_read": 28685179,
+      "output": 229163
+    }
+  },
+  "models": {
+    "claude-sonnet-5-5": {
+      "input": 306,
+      "cache_write": 395601,
+      "cache_read": 28685179,
+      "output": 229163
+    }
+  }
+}

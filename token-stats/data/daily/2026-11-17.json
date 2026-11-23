@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-17",
+  "input": 1493601,
+  "cache_write": 0,
+  "cache_read": 83450368,
+  "output": 112221,
+  "agents": {
+    "claude-code": {
+      "input": 96374,
+      "cache_write": 0,
+      "cache_read": 47872,
+      "output": 616
+    },
+    "codex": {
+      "input": 1397227,
+      "cache_write": 0,
+      "cache_read": 83402496,
+      "output": 111605
+    }
+  },
+  "models": {
+    "gpt-5.6-luna": {
+      "input": 24192,
+      "cache_write": 0,
+      "cache_read": 23808,
+      "output": 137
+    },
+    "gpt-5.6-sol": {
+      "input": 23899,
+      "cache_write": 0,
+      "cache_read": 0,
+      "output": 13
+    },
+    "gpt-6.1-sol": {
+      "input": 23996,
+      "cache_write": 0,
+      "cache_read": 0,
+      "output": 203
+    },
+    "gpt-6.1-terra": {
+      "input": 1421514,
+      "cache_write": 0,
+      "cache_read": 83426560,
+      "output": 111868
+    }
+  }
+}

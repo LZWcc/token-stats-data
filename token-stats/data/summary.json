@@ -1,22 +1,23 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-23",
  "metric": "all",
- "total": 10841570744,
- "last7": 395327754,
- "last30": 4042946309,
- "active_days": 193,
- "streak": 41,
- "longest_streak": 41,
+ "total": 11867529811,
+ "last7": 906075908,
+ "last30": 4046285220,
+ "active_days": 202,
+ "streak": 50,
+ "longest_streak": 50,
  "models": {
-  "claude-opus-5-5": 4727104773,
-  "gpt-5.6-sol": 1634603456,
-  "gpt-6.1-sol": 1298009535,
+  "claude-opus-5-5": 5084777318,
+  "gpt-5.6-sol": 1634627368,
+  "gpt-6.1-sol": 1298033734,
   "gpt-5.5": 871570433,
-  "gpt-5.6-luna": 332084520,
+  "claude-sonnet-5-5": 426677271,
+  "gpt-6.1-terra": 365312261,
+  "gpt-5.6-luna": 332132657,
   "gpt-5.4": 323488467,
+  "gpt-6.2-sol": 313016036,
   "claude-sonnet-5": 278959089,
-  "claude-sonnet-5-5": 271218729,
-  "gpt-6.1-terra": 169363496,
   "mimo-v2.5-pro": 149418882,
   "gpt-6-sol": 101510446,
   "claude-opus-5": 84068856,
@@ -25,8 +26,8 @@
   "gpt-5.6-terra": 74479284,
   "claude-opus-4-6": 70387511,
   "codex-auto-review": 55058403,
+  "claude-fable-5-2": 47154411,
   "claude-haiku-4-5-20251001": 45821639,
-  "claude-fable-5-2": 43463119,
   "deepseek-v4-flash": 35685515,
   "gpt-5.3-codex": 26937859,
   "claude-sonnet-4-6": 20019444,
@@ -37,7 +38,7 @@
   "tencent/hy3:free": 5519808,
   "deepseek-flash": 5159172,
   "gpt-6-luna": 4259328,
-  "claude-haiku-5-5": 3733957,
+  "claude-haiku-5-5": 3786739,
   "mimo-v2.5": 3706573,
   "euromodels": 2706990,
   "grok-4.5": 1559489,
@@ -54,11 +55,12 @@
   "dsadaskda": 44126,
   "gpt5.5": 43840,
   "qwen2.5:0.5b": 25193,
+  "gpt-6.2-astra": 22857,
   "claude-haiku-4-5": 11566
  },
  "agents": {
-  "claude-code": 5938761332,
-  "codex": 4902809412
+  "claude-code": 6455805448,
+  "codex": 5411724363
  },
  "daily": [
   {
@@ -1059,7 +1061,39 @@
   },
   {
    "date": "2026-11-15",
-   "total": 0
+   "total": 5420822
+  },
+  {
+   "date": "2026-11-16",
+   "total": 114462337
+  },
+  {
+   "date": "2026-11-17",
+   "total": 85056190
+  },
+  {
+   "date": "2026-11-18",
+   "total": 207086207
+  },
+  {
+   "date": "2026-11-19",
+   "total": 153006961
+  },
+  {
+   "date": "2026-11-20",
+   "total": 273338046
+  },
+  {
+   "date": "2026-11-21",
+   "total": 29310249
+  },
+  {
+   "date": "2026-11-22",
+   "total": 102562112
+  },
+  {
+   "date": "2026-11-23",
+   "total": 55716143
   }
  ]
 }

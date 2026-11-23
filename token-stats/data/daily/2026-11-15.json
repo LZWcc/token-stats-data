@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-15",
+  "input": 150,
+  "cache_write": 224246,
+  "cache_read": 5097309,
+  "output": 99117,
+  "agents": {
+    "claude-code": {
+      "input": 150,
+      "cache_write": 224246,
+      "cache_read": 5097309,
+      "output": 99117
+    }
+  },
+  "models": {
+    "claude-fable-5-2": {
+      "input": 70,
+      "cache_write": 168357,
+      "cache_read": 3441561,
+      "output": 81304
+    },
+    "claude-opus-5-5": {
+      "input": 80,
+      "cache_write": 55889,
+      "cache_read": 1655748,
+      "output": 17813
+    }
+  }
+}
