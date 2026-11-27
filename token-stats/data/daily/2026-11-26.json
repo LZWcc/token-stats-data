@@ -1,23 +1,53 @@
 {
   "date": "2026-11-26",
-  "input": 14,
-  "cache_write": 15156,
-  "cache_read": 1134001,
-  "output": 10465,
+  "input": 6920054,
+  "cache_write": 1041785,
+  "cache_read": 453016943,
+  "output": 1743897,
   "agents": {
     "claude-code": {
-      "input": 14,
-      "cache_write": 15156,
-      "cache_read": 1134001,
-      "output": 10465
+      "input": 1062,
+      "cache_write": 1041785,
+      "cache_read": 161068783,
+      "output": 567045
+    },
+    "codex": {
+      "input": 6918992,
+      "cache_write": 0,
+      "cache_read": 291948160,
+      "output": 1176852
     }
   },
   "models": {
     "claude-opus-5-5": {
-      "input": 14,
-      "cache_write": 15156,
-      "cache_read": 1134001,
-      "output": 10465
+      "input": 1062,
+      "cache_write": 1041785,
+      "cache_read": 161068783,
+      "output": 567045
+    },
+    "codex-auto-review": {
+      "input": 1041606,
+      "cache_write": 0,
+      "cache_read": 3352320,
+      "output": 14022
+    },
+    "gpt-6-astra": {
+      "input": 630780,
+      "cache_write": 0,
+      "cache_read": 29571584,
+      "output": 111074
+    },
+    "gpt-6.2-astra": {
+      "input": 3870745,
+      "cache_write": 0,
+      "cache_read": 237921536,
+      "output": 850609
+    },
+    "gpt-6.2-sol": {
+      "input": 1375861,
+      "cache_write": 0,
+      "cache_read": 21102720,
+      "output": 201147
     }
   }
 }

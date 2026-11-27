@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="365" height="174" viewBox="0 0 365 174" font-family="system-ui, -apple-system, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif">
 <rect x="0.5" y="0.5" width="364" height="173" rx="6" fill="none" stroke="#d1d9e0"/>
-<text x="16" y="30" font-size="14" font-weight="600" fill="#1f2328">Token 用量<tspan dx="10" font-size="12" font-weight="400" fill="#59636e">近半年 12.6B · 活跃 150 天</tspan></text>
+<text x="16" y="30" font-size="14" font-weight="600" fill="#1f2328">Token 用量<tspan dx="10" font-size="12" font-weight="400" fill="#59636e">近半年 13.4B · 活跃 151 天</tspan></text>
 <text x="55" y="54" font-size="10" fill="#59636e">Jun</text>
 <text x="99" y="54" font-size="10" fill="#59636e">Jul</text>
 <text x="143" y="54" font-size="10" fill="#59636e">Aug</text>
@@ -30,7 +30,7 @@
 <rect x="66" y="95" width="9" height="9" rx="2" fill="#b3eacb"/>
 <rect x="66" y="106" width="9" height="9" rx="2" fill="#b3eacb"/>
 <rect x="66" y="117" width="9" height="9" rx="2" fill="#ebeef0"/>
-<rect x="66" y="128" width="9" height="9" rx="2" fill="#3ab19b"/>
+<rect x="66" y="128" width="9" height="9" rx="2" fill="#7ad3b0"/>
 <rect x="77" y="62" width="9" height="9" rx="2" fill="#7ad3b0"/>
 <rect x="77" y="73" width="9" height="9" rx="2" fill="#ebeef0"/>
 <rect x="77" y="84" width="9" height="9" rx="2" fill="#ebeef0"/>
@@ -41,7 +41,7 @@
 <rect x="88" y="62" width="9" height="9" rx="2" fill="#b3eacb"/>
 <rect x="88" y="73" width="9" height="9" rx="2" fill="#ebeef0"/>
 <rect x="88" y="84" width="9" height="9" rx="2" fill="#7ad3b0"/>
-<rect x="88" y="95" width="9" height="9" rx="2" fill="#7ad3b0"/>
+<rect x="88" y="95" width="9" height="9" rx="2" fill="#b3eacb"/>
 <rect x="88" y="106" width="9" height="9" rx="2" fill="#b3eacb"/>
 <rect x="88" y="117" width="9" height="9" rx="2" fill="#3ab19b"/>
 <rect x="88" y="128" width="9" height="9" rx="2" fill="#b3eacb"/>
@@ -59,7 +59,7 @@
 <rect x="110" y="106" width="9" height="9" rx="2" fill="#3ab19b"/>
 <rect x="110" y="117" width="9" height="9" rx="2" fill="#128984"/>
 <rect x="110" y="128" width="9" height="9" rx="2" fill="#3ab19b"/>
-<rect x="121" y="62" width="9" height="9" rx="2" fill="#128984"/>
+<rect x="121" y="62" width="9" height="9" rx="2" fill="#3ab19b"/>
 <rect x="121" y="73" width="9" height="9" rx="2" fill="#7ad3b0"/>
 <rect x="121" y="84" width="9" height="9" rx="2" fill="#7ad3b0"/>
 <rect x="121" y="95" width="9" height="9" rx="2" fill="#b3eacb"/>
@@ -171,7 +171,7 @@
 <rect x="286" y="106" width="9" height="9" rx="2" fill="#7ad3b0"/>
 <rect x="286" y="117" width="9" height="9" rx="2" fill="#128984"/>
 <rect x="286" y="128" width="9" height="9" rx="2" fill="#7ad3b0"/>
-<rect x="297" y="62" width="9" height="9" rx="2" fill="#3ab19b"/>
+<rect x="297" y="62" width="9" height="9" rx="2" fill="#7ad3b0"/>
 <rect x="297" y="73" width="9" height="9" rx="2" fill="#128984"/>
 <rect x="297" y="84" width="9" height="9" rx="2" fill="#3ab19b"/>
 <rect x="297" y="95" width="9" height="9" rx="2" fill="#b3eacb"/>
@@ -179,7 +179,7 @@
 <rect x="297" y="117" width="9" height="9" rx="2" fill="#b3eacb"/>
 <rect x="297" y="128" width="9" height="9" rx="2" fill="#128984"/>
 <rect x="308" y="62" width="9" height="9" rx="2" fill="#b3eacb"/>
-<rect x="308" y="73" width="9" height="9" rx="2" fill="#128984"/>
+<rect x="308" y="73" width="9" height="9" rx="2" fill="#3ab19b"/>
 <rect x="308" y="84" width="9" height="9" rx="2" fill="#3ab19b"/>
 <rect x="308" y="95" width="9" height="9" rx="2" fill="#128984"/>
 <rect x="308" y="106" width="9" height="9" rx="2" fill="#128984"/>
@@ -189,7 +189,8 @@
 <rect x="319" y="73" width="9" height="9" rx="2" fill="#128984"/>
 <rect x="319" y="84" width="9" height="9" rx="2" fill="#128984"/>
 <rect x="319" y="95" width="9" height="9" rx="2" fill="#128984"/>
-<rect x="319" y="106" width="9" height="9" rx="2" fill="#b3eacb"/>
+<rect x="319" y="106" width="9" height="9" rx="2" fill="#128984"/>
+<rect x="319" y="117" width="9" height="9" rx="2" fill="#128984"/>
 <text x="276" y="157" font-size="10" text-anchor="end" fill="#59636e">少</text>
 <rect x="280" y="149" width="9" height="9" rx="2" fill="#ebeef0"/>
 <rect x="291" y="149" width="9" height="9" rx="2" fill="#b3eacb"/>
